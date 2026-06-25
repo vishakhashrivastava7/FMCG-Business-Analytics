@@ -1,0 +1,12 @@
+Order_ID,Date,Product_ID,Product_Name,Category,Region,Sales_Quantity,Unit_Price,Total_Sales,Cost_Price,Profit
+O1,2025-01-01,P101,Black Pepper,Spices,North,10,200,2000,120,800
+O2,2025-01-02,P102,Chilli Powder,Spices,South,15,150,2250,90,900
+O3,2025-01-03,P103,Turmeric Powder,Spices,East,12,180,2160,110,840
+O4,2025-01-04,P104,Cumin Seeds,Spices,West,8,220,1760,140,640
+O5,2025-01-05,P105,BBQ Seasoning,Seasoning,North,20,250,5000,160,1800
+O6,2025-01-06,P106,Italian Herbs,Seasoning,South,18,240,4320,150,1620
+O7,2025-01-07,P107,Garlic Powder,Seasoning,East,14,210,2940,130,1120
+O8,2025-01-08,P108,Soy Sauce,Condiments,West,25,300,7500,200,2500
+O9,2025-01-09,P109,Tomato Ketchup,Condiments,North,30,180,5400,100,2400
+O10,2025-01-10,P110,Mustard Sauce,Condiments,South,22,220,4840,140,1760
+
