@@ -1,0 +1,11 @@
+Product_ID,Warehouse_Region,Stock_Available,Reorder_Level,Stock_Status,Last_Replenished_Date
+P101,North,120,50,In Stock,2025-01-10
+P102,South,40,60,Low Stock,2025-01-08
+P103,East,80,50,In Stock,2025-01-09
+P104,West,30,40,Low Stock,2025-01-07
+P105,North,150,70,In Stock,2025-01-11
+P106,South,20,50,Out of Stock,2025-01-06
+P107,East,90,60,In Stock,2025-01-10
+P108,West,60,80,Low Stock,2025-01-09
+P109,North,200,100,In Stock,2025-01-12
+P110,South,110,70,In Stock,2025-01-11
