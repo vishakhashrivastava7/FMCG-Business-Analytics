@@ -60,7 +60,3 @@ This project analyzes FMCG sales, product, and inventory data to generate busine
 ## Business Impact
 
 The project demonstrates how analytics can improve inventory planning, product strategy, and operational decision-making in FMCG businesses.
-
-
-├── dashboard_screenshots/
-└── README.md
