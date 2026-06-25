@@ -1,0 +1,11 @@
+Product_ID,Product_Name,Category,Sub_Category,Unit_Cost,Shelf_Life_Days
+P101,Black Pepper,Spices,Whole,120,365
+P102,Chilli Powder,Spices,Powder,90,300
+P103,Turmeric Powder,Spices,Powder,110,400
+P104,Cumin Seeds,Spices,Whole,140,500
+P105,BBQ Seasoning,Seasoning,Blend,160,240
+P106,Italian Herbs,Seasoning,Blend,150,200
+P107,Garlic Powder,Seasoning,Powder,130,300
+P108,Soy Sauce,Condiments,Liquid,200,180
+P109,Tomato Ketchup,Condiments,Sauce,100,365
+P110,Mustard Sauce,Condiments,Sauce,140,300
